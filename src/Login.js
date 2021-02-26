@@ -73,6 +73,8 @@ function Login() {
         <button className="login__registerButton" onClick={register}>
           Create an account
         </button>
+
+        <p>create your account by tapping on above button</p>
       </div>
     </div>
   );
